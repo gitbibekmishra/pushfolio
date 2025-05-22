@@ -1,4 +1,9 @@
-# 🚀 Pushfolio
+# 
+<p align="center">
+  <img src="assets/logo.png" alt="Pushfolio Logo" width="180"/>
+</p>
+
+🚀 Pushfolio
 
 > **The friendliest GitHub profile/portfolio generator!**  
 > *No coding required. Professional results. Made for everyone.*
