@@ -4,7 +4,7 @@
 .env
 .pushfolio_cache.json
 .pushfolio_config.json
-preview.md      # If you use --save for previews
+preview.md      
 
 # Python build files
 __pycache__/
