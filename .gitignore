@@ -1,0 +1,34 @@
+# ===== Pushfolio/Python CLI .gitignore =====
+
+# Secrets and user data
+.env
+.pushfolio_cache.json
+.pushfolio_config.json
+preview.md      # If you use --save for previews
+
+# Python build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Build/packaging
+dist/
+build/
+*.egg-info/
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+env/
+ENV/
